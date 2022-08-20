@@ -11,3 +11,4 @@ function countDown(number){
         console.log(i)
     }
 }
+writeCards()
